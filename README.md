@@ -1,6 +1,6 @@
 # VRED-MaterialSwitchReplace
 
-Script replaces all switch material assignments with the active material inside the switch.
+Script replaces all Material Switch assignments with the active material inside the switch.
 
 ![Material_Switches](https://user-images.githubusercontent.com/39199224/141646575-f5eb39be-37ba-4516-bf81-1fb53cd38863.png)
 
